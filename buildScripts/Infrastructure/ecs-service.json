@@ -5,7 +5,7 @@
   },
   {
     "ParameterKey": "ImageUrl",
-    "ParameterValue": "140446416046.dkr.ecr.us-east-2.amazonaws.com/blazorserverapp:latest"
+    "ParameterValue": "{your-account-id}.dkr.ecr.{your-region}.amazonaws.com/blazorserverapp:latest"
   },
   {
     "ParameterKey": "ContainerPort",
